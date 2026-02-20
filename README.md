@@ -304,7 +304,7 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **Sridhar S**  
-AIML Student  
+VLSI Student  
 Chennai Institute of Technology  
 
 ---
